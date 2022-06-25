@@ -1,4 +1,4 @@
-# License for Discord-MusicBot
+# License for PopcornMusic
 
 * The credits should not be changed.
 * The bot-code should be used for **private hosting** and **personal usage** only.
